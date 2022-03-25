@@ -1,12 +1,12 @@
 var CronJob = require('cron').CronJob;
 var twit = require('twit');
-var AziziConfig = require('../AziziConfig.js');
-var AziziQuery = require('../AziziQuery.json');
+var AziziConfig = require('../app/AziziConfig.js');
+var AziziQuery = require('../app/AziziQuery.json');
 var AziziTwitter = new twit(AziziConfig);
 var AziziTwit = Object.keys(AziziQuery.tweetData.scheduledTweet).length;
 var Azizi = AziziQuery.tweetData
-var FloraConfig = require('..FloraConfig.js');
-var FloraQuery = require('..FloraQuery.json');
+var FloraConfig = require('../app/FloraConfig.js');
+var FloraQuery = require('../app/FloraQuery.json');
 var FloraTwitter = new twit(FloraConfig);
 var FloraTwit = Object.keys(FloraQuery.tweetData.scheduledTweet).length;
 var Flora = FloraQuery.tweetData
