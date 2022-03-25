@@ -1,0 +1,14 @@
+{
+    "tweetData": {
+        "scheduledTweet": [{
+           "message": "selamat pagi ayang @A_ZeeJKT48\njangan lupa sarapan 😘 #ZeelamatPagi",
+           "time": "0:0"
+        },{
+            "message": "selamat siang ayang @A_ZeeJKT48\njangan lupa makan 😘",
+            "time" : "6:0"
+        },{
+            "message": "selamat malam ayang @A_ZeeJKT48\njangan lupa makan 😘",
+            "time" : "12:0"
+        }]
+    }
+}
