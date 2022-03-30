@@ -1,7 +1,7 @@
 var twit = require('twit');
 module.exports = {
-    consumer_key: 'fEJojI04dKsy6IMYoji5CQxhh',
-    consumer_secret: 'bYPrMkZ4pWZOPb0m1xkfR5lfIvOABYzUWIFLDm4jiczoinbFSB',
-    access_token: '1126042316026703872-DAJq8kFNoSYPSS2caBuUH5wQiyfr88',
-    access_token_secret: 'qLv3AKvPnOBTh78Cr9eXL1dBgikQOFREDGfMSO8Qydd1z'
+    consumer_key: 'Ekahw2Kn3AdsdDW2sJ3lBUBjU',
+    consumer_secret: 'Tyk2tTtovZcyMxSHMPig4bnVTVZEhmK1O5Uv16tIje0aqaNm37',
+    access_token: '1126042316026703872-tDFq0RGkJW8zXLaiSQLi9GoOle36KT',
+    access_token_secret: '6jShLFvXA8Sn8AeSXr5zIS8wSWdHbTGVkeqgSXFnJp57N'
 }
